@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cytoscape": "^3.31.2",
+    "ethers": "^6.13.5"
+  }
+}
