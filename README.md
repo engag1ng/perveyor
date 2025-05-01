@@ -1,2 +1,2 @@
 # crypto-tracker
- Track Ethereum and Bitcoin transactions - lightweight and lighting fast.
+ Track Ethereum and Bitcoin transactions - 🪶lightweight and ⚡lighting fast.
